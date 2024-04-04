@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.[Oo]bj
+*.[Bb]in
+*.[Dd]ll
+*.[Ee]xe
+*.[Tt]mp
+*.[Dd]b
